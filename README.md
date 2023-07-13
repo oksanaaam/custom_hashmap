@@ -74,4 +74,6 @@ To run the tests, use the following command:
 
 `python tests.py`
 
+![result_testing.png](images%20for%20README.md%2Fresult_testing.png)
+
 The test results will be displayed, showing which tests passed and which ones failed..
